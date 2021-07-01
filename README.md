@@ -18,6 +18,6 @@ The graph is implemented in each algorithm in 2 ways:
 
 
 The input is a file that contains the number of vertices in the graph, the origin vertex, and the destination vertex.
-Then the rest of the file contains a list of edges, origin and destination vertex, and the weight of the edge.
+The rest of the file contains a list of edges, origin and destination vertex, and the weight of the edge.
 
 The program prints the weight of the shortest path between the origin vertex to the destintaion vertex
